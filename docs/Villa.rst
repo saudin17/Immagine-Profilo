@@ -11,9 +11,19 @@ Villa
 
     yaaah
 
+\ |STYLE0|\ 
+
+\ |STYLE1|\ 
+
+Urca
 
 .. bottom of content
 
-.. |IMG1| image:: static/Documento_senza_titolo_1.jpeg
+
+.. |STYLE0| replace:: **Villa**
+
+.. |STYLE1| replace:: *Casa*
+
+.. |IMG1| image:: static/Villa_1.jpeg
    :height: 297 px
    :width: 408 px
