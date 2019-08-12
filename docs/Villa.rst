@@ -7,7 +7,7 @@ Villa
 \ |IMG1|\ 
 
 
-.. admonition:: OKAY
+.. admonition:: OK
 
     yaaah
 
