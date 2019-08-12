@@ -7,7 +7,7 @@ Villa
 \ |IMG1|\ 
 
 
-.. admonition:: OK
+.. admonition:: OKAY
 
     yaaah
 
@@ -15,7 +15,7 @@ Villa
 
 \ |STYLE1|\ 
 
-Urca
+WWWOOOOOOOOWWWWW
 
 .. bottom of content
 
