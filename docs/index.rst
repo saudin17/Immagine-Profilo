@@ -4,6 +4,7 @@
     :caption: Indice
 
     Villa
+    foto
 
 
 .. bottom of content
